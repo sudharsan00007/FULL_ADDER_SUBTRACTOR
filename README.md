@@ -58,6 +58,7 @@ ii)FULL SUBTRACTOR
 **Program:**
 DEVELOPED BY: SUDHARSAN S
 REG NO: 24009664
+
  i)FULL ADDER
 
 module fa(a,b,cin,sum,carry);
